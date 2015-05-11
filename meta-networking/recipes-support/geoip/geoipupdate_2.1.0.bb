@@ -2,7 +2,7 @@ SUMMARY = "Crontab entry to provide weekly updates of the GeoIP free databases."
 DESCRIPTION = "update databases for GeoIP"
 
 HOMEPAGE = "http://dev.maxmind.com/geoip/"
-SECTION = "Development"
+SECTION = "net"
 
 DEPENDS = "zlib curl"
 
